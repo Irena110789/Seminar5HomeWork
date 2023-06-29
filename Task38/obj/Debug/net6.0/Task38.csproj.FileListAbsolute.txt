@@ -1,0 +1,15 @@
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\bin\Debug\net6.0\Task38.exe
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\bin\Debug\net6.0\Task38.deps.json
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\bin\Debug\net6.0\Task38.runtimeconfig.json
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\bin\Debug\net6.0\Task38.dll
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\bin\Debug\net6.0\Task38.pdb
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\obj\Debug\net6.0\Task38.csproj.AssemblyReference.cache
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\obj\Debug\net6.0\Task38.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\obj\Debug\net6.0\Task38.AssemblyInfoInputs.cache
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\obj\Debug\net6.0\Task38.AssemblyInfo.cs
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\obj\Debug\net6.0\Task38.csproj.CoreCompileInputs.cache
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\obj\Debug\net6.0\Task38.dll
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\obj\Debug\net6.0\refint\Task38.dll
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\obj\Debug\net6.0\Task38.pdb
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\obj\Debug\net6.0\Task38.genruntimeconfig.cache
+D:\Программирование Ир\03 Введение в C#\Seminar5 home work\Task38\obj\Debug\net6.0\ref\Task38.dll
